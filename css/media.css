@@ -1,0 +1,25 @@
+@media screen and (max-width:768px) {
+	.sponsor-logo{
+		width: 80%;
+	
+	
+	
+	float: none;
+	margin: 0 auto;
+	}
+}
+
+@media screen and (max-width:1420px){
+	.nav ul{
+		display: none;
+	}
+	.menu-icon{
+		visibility: visible;
+	}
+}
+
+@media screen and (min-width:1200px){
+	.sponsors-h2-block{
+		text-align: left;
+	}
+	}
